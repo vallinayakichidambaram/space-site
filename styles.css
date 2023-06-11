@@ -1,0 +1,31 @@
+body{
+   
+    color: #6b74eb;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    background-color: transparent;
+    margin: 0;
+}
+.hero-section{
+    background-image: url(images/galaxy.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 10px;
+}
+.btn {
+    padding: 10px 20px;
+    background-color: antiquewhite;
+    border: none;
+    font-family: inherit;
+}
+.exp-line{
+   border-bottom: 5px solid aliceblue;
+}
+
+#main-logo{
+    width: 200px;
+}
+
+h1{
+    text-shadow: 0 0 4px black;
+}
